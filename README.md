@@ -9,6 +9,10 @@ Book Worm is a React application for managing a personal library of books.
 - View detailed information about each book.
 - Delete books from the library.
 
+## Screenshots
+<img src="bookwormHome.png" alt="Home screen" width="200" height="350"/> <img src="bookwormShowBook.png" alt="Menu screen" width="200" height="350"/><img src="bookwormEditBook.png" alt="Menu screen" width="200" height="350"/><img src="bookwormDeleteBook.png" alt="Menu screen" width="200" height="350"/><img src="bookwormCardView.png" alt="Menu screen" width="200" height="350"/>
+
+
 ## Installation
 
 1. Clone the repository:
