@@ -12,7 +12,7 @@ Book Worm is a React application for managing a personal library of books.
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/book-worm.git
+git clone git@github.com:syousafz/book-worm.git
 
 2. Navigate into the project directory:
 
